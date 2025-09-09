@@ -26,7 +26,8 @@ It combines *Python (Pandas, Prophet, Matplotlib)* for data cleaning & forecasti
 ---
 
 ## 📊 Dashboard Preview
-(Insert screenshot here once dashboard is ready — e.g., Dashboard_Preview.png)  
+
+Dashboard Preview.png (in the main) 
 
 ---
 
